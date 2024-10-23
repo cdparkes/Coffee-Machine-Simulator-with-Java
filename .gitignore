@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Combining constants with enum/Hidden enumeration/out/
+/Topics/Combining constants with enum/Hidden enumeration/out/production/classes/
+/Topics/Objects and their properties/Null or not/out/
+/Topics/Objects and their properties/Null or not/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
